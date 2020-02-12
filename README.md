@@ -1,5 +1,5 @@
 <center>
-  <img src="img/beta1.jpg" alt="Getrails" width="900px"/>
+  <img src="https://raw.githubusercontent.com/Vault-Cyber-Security/getrails/lib/img/beta1.jpg" alt="Getrails" width="900px"/>
 </center>
 
 ![Upload Python Package](https://github.com/Vault-Cyber-Security/getrails/workflows/Upload%20Python%20Package/badge.svg?branch=lib)
