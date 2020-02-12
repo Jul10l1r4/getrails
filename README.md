@@ -1,11 +1,23 @@
-![](img/beta1.jpg)
+<center>
+  <img src='img/beta1.jpg' width='90%'/>
+<center>
+
 # GETRAILS
-Tool of OSINT and Dork hacking that work with Google and Duckduckgo
+Lib of OSINT and Dork hacking that work with Google and Duckduckgo
+
+# Use
+
+```python
+import getrails
+getrails.search('site:scanme.nmap.org')) # Try Google search if return error use Duckduckgo
+# ["http://scanme.nmap.org",...]
+
+getrails.go_gle("term") # Searching Google
+getrails.go_duck("term") # Searching Duckduckgo
+```
 
 # Install
-```bash
-git clone https://github.com/Vault-Cyber-Security/getrails.git
-cd getrails
-pip3 install -r requirements.txt
-python3 search.py 'term'
+
+```python
+pip3 install getrails
 ```
