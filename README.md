@@ -1,6 +1,6 @@
 <center>
-  <img src='img/beta1.jpg' width='90%'/>
-<center>
+  <img src="img/beta1.jpg" alt="Getrails" width="900px"/>
+</center>
 
 # GETRAILS
 Lib of OSINT and Dork hacking that work with Google and Duckduckgo
