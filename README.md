@@ -7,7 +7,7 @@
 # GETRAILS
 Lib of OSINT and Dork hacking that work with Google and Duckduckgo
 
-# Use
+## Run
 
 ```python
 import getrails
@@ -18,8 +18,8 @@ getrails.go_gle("term") # Searching Google
 getrails.go_duck("term") # Searching Duckduckgo
 ```
 
-# Install
+## Install
 
-```python
+```pypi
 pip3 install getrails
 ```
