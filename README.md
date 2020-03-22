@@ -1,8 +1,8 @@
 <center>
-  <img src="https://raw.githubusercontent.com/Vault-Cyber-Security/getrails/lib/img/beta1.jpg" alt="Getrails" width="900px"/>
+  <img src="https://github.com/Jul10l1r4/getrailslib/img/beta1.jpg" alt="Getrails" width="900px"/>
 </center>
 
-![Upload Python Package](https://github.com/Vault-Cyber-Security/getrails/workflows/Upload%20Python%20Package/badge.svg?branch=lib)
+![Upload Python Package](https://github.com/Jul10l1r4/getrailslib/workflows/Upload%20Python%20Package/badge.svg?branch=lib)
 
 # GETRAILS
 Lib of OSINT and Dork hacking that work with Google and Duckduckgo
