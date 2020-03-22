@@ -1,6 +1,4 @@
-![Getrails](https://github.com/Jul10l1r4/getrails/img/beta1.jpg)
-
-![Upload Python Package](https://github.com/Jul10l1r4/getrails/workflows/Upload%20Python%20Package/badge.svg?branch=lib)
+![Getrails](https://github.com/Jul10l1r4/getrails/img/banner.png)
 
 # GETRAILS
 Lib of OSINT and Dork hacking that work with Google and Duckduckgo
