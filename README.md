@@ -2,7 +2,7 @@
 
 # GETRAILS
 
-![Upload Python Package](https://github.com/Jul10l1r4/getrails/workflows/Upload%20Python%20Package/badge.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/403eac2b51ef4546a1170720dfb46f1f)](https://app.codacy.com/manual/Jul10l1r4/getrails?utm_source=github.com&utm_medium=referral&utm_content=Jul10l1r4/getrails&utm_campaign=Badge_Grade_Dashboard)
+![Upload Python Package](https://github.com/Jul10l1r4/getrails/workflows/Upload%20Python%20Package/badge.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc02078872134bbc93b9e79a777dc14e)](https://app.codacy.com/manual/Jul10l1r4/getrails?utm_source=github.com&utm_medium=referral&utm_content=Jul10l1r4/getrails&utm_campaign=Badge_Grade_Dashboard)
 
 Lib of OSINT and Dork hacking that work with Google, Duckduckgo and Torch
 
