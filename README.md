@@ -15,7 +15,7 @@ getrails.search('site:scanme.nmap.org')) # Try Google search if return error use
 
 getrails.go_gle("term") # Searching Google
 getrails.go_duck("term") # Searching Duckduckgo
-getrails.go_tor("term") # Searching torch (Onion)
+getrails.go_onion("term") # Searching torch (Onion)
 ```
 
 ## Install
