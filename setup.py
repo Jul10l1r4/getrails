@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='getrails',
-    version=1.7,
+    version=2.0
     author="Julio Lira",
     author_email="jul10l1r4@disroot.org",
     description="Tool of OSINT and Dork hacking that work with Google and Duckduckgo",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Jul10l1r4/getrailslib",
+    url="https://github.com/Jul10l1r4/getrails",
     packages=["getrails", "getrails.google", "getrails.duckduckgo"],
     classifiers=[
         "Programming Language :: Python :: 3",
