@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='getrails',
-    version=2.4,
+    version=2.5,
     author="Julio Lira",
     author_email="jul10l1r4@disroot.org",
     description="Tool of OSINT and Dork hacking that work with Google and Duckduckgo",
