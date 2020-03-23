@@ -1,4 +1,4 @@
-![Getrails](https://github.com/Jul10l1r4/getrails/img/banner.png)
+![Getrails](img/banner.png)
 
 # GETRAILS
 Lib of OSINT and Dork hacking that work with Google and Duckduckgo
