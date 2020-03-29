@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Jul10l1r4/getrails",
-    packages=["getrails", "getrails.google", "getrails.duckduckgo", "getrails.torch", "getrails.search"],
+    packages=["getrails", "getrails.google", "getrails.duckduckgo", "getrails.torch", "search"],
     license="GPLv3",
     keywords="getrails get trails google duckduckgo tor onion torch osint",
     install_requires=[
