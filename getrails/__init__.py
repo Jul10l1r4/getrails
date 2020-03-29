@@ -10,5 +10,5 @@ def search (query):
     except error.HTTPError:
         result = go_duck(query)
 
-    result = result.append(go_onion(query))
+    result = result + go_onion(query)
     return result
