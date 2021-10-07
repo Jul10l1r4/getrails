@@ -5,16 +5,16 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='getrails',
-    version=3.1,
+    version=3.2,
     author="Julio Lira",
     author_email="jul10l1r4@disroot.org",
-    description="Tool of OSINT and Dork hacking that work with Google and Duckduckgo",
+    description="Tool of OSINT and Dork hacking that work with Google, Duckduckgo and Onion likes",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Jul10l1r4/getrails",
-    packages=["getrails", "getrails.google", "getrails.duckduckgo", "getrails.torch"],
+    packages=["getrails", "getrails.google", "getrails.duckduckgo", "getrails.vidalia"],
     license="GPLv3",
-    keywords="getrails get trails google duckduckgo tor onion torch osint",
+    keywords="getrails get trails google duckduckgo tor onion torch vidalia osint",
     install_requires=[
           'mechanicalsoup',
           'google',
