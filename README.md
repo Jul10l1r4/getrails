@@ -4,8 +4,10 @@
 
 ![Upload Python Package](https://github.com/Jul10l1r4/getrails/workflows/Upload%20Python%20Package/badge.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc02078872134bbc93b9e79a777dc14e)](https://app.codacy.com/manual/Jul10l1r4/getrails?utm_source=github.com&utm_medium=referral&utm_content=Jul10l1r4/getrails&utm_campaign=Badge_Grade_Dashboard)
 
-Lib of OSINT and Dork hacking that work with Google, Duckduckgo and Torch
+Lib of [OSINT](https://pt.wikipedia.org/wiki/OSINT) and Dork hacking that work with Google, Duckduckgo and Torch
 
+Feel free to contribute 
+ 
 ## Run
 
 ```python
@@ -22,4 +24,8 @@ getrails.go_onion("term") # Searching torch (Onion)
 
 ```pypi
 pip3 install getrails
+```
+or 
+```python
+python3 setup.py
 ```
