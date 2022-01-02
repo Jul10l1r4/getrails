@@ -2,15 +2,11 @@
 import mechanicalsoup
 
 def go_duck(query):
-
+    list1 = []
     # Connect to duckduckgo
     browser = mechanicalsoup.StatefulBrowser()
     browser.set_user_agent('Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0')
-    browser.open(f"https://duckduckgo.com/html/?q={query}")
-    
-    # List 
-    list1 = []
-
+    browser.open(f"https://duckduckgo.com/html/?q={query}")    
     # Subfunction
     def change_page():
         browser.select_form(browser.get_current_page().select('form')[-1])
